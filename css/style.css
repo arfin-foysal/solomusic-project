@@ -1,0 +1,126 @@
+body {
+  font-family: Montserrat, sans-serif; }
+
+.navbar {
+  min-height: 110px;
+  padding: 0 50px; }
+  .navbar .nav-item {
+    margin-left: 50px; }
+
+a {
+  font-size: 17px;
+  font-weight: 400; }
+
+.marzin {
+  margin-right: 70px; }
+  .marzin a {
+    text-decoration: none; }
+
+.vnew {
+  color: red !important; }
+
+.back {
+  background-color: #0A183D;
+  min-height: 700px; }
+
+#hero-aria .container {
+  padding: 120px 0px; }
+
+#hero-aria .big {
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 63px; }
+
+a {
+  text-decoration: none; }
+
+p {
+  font-size: 15px;
+  font-weight: 500px;
+  line-height: 27px;
+  padding: 20px 0px; }
+
+.btn1 {
+  background-color: #FC0254;
+  color: white;
+  padding: 20px 40px;
+  border-radius: 50px;
+  font-size: 14px;
+  text-transform: uppercase; }
+
+.btn2 {
+  background-color: #383B70;
+  color: white;
+  padding: 20px 40px;
+  border-radius: 50px;
+  font-size: 14px;
+  text-transform: uppercase; }
+
+h2 {
+  font-size: 60px;
+  font-weight: 600; }
+
+.paddaaa {
+  padding: 100px 0px; }
+
+.hi-icon {
+  background-color: red;
+  height: 57px;
+  width: 57px;
+  border-radius: 50%;
+  position: relative;
+  margin-bottom: 20px; }
+
+.work {
+  background-image: url(../img/how-to-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  padding: 100px 0px; }
+
+.rounded-3 {
+  border-radius: 40px !important; }
+
+.conceptt {
+  padding: 100px 0px; }
+
+.bg-dark {
+  background-color: #0A183D !important;
+  padding: 100px 0px; }
+
+.bfkk {
+  background-color: #385BB5;
+  padding: 50px;
+  border-radius: 50px; }
+
+.list {
+  margin-left: 100px;
+  padding: 5px; }
+
+.footer {
+  background-color: #0A183D; }
+
+.foot {
+  font-size: 11px;
+  font-weight: 500;
+  color: #505565;
+  padding: 0px; }
+
+.dfcdj {
+  margin-right: 30px;
+  color: #505565; }
+
+.ffdfdfd {
+  color: #505565 !important; }
+
+.footer a {
+  color: #505565 !important; }
+
+@media only screen and (max-width: 991px) {
+  .navbar ul {
+    background-color: #1C294A;
+    margin-top: 10px; }
+    .navbar ul li {
+      padding-left: 20px; }
+  .navbar .new {
+    display: none; } }
